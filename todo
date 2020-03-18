@@ -24,4 +24,6 @@ unsorting unreal ideas
 - re utf strings
 - new fonts
 - hidpi
+- disassembler upper/lower case
+- read colors settings from config
 ...
