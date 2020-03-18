@@ -26,4 +26,7 @@ unsorting unreal ideas
 - hidpi
 - disassembler upper/lower case
 - read colors settings from config
+- hint args for call cdecl/stdcall/thicall/fastcall
+- improve render
+- add alpha channel for color
 ...
