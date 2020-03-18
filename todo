@@ -29,4 +29,5 @@ unsorting unreal ideas
 - improve render
 - add alpha channel for color
 - improve callstack window
+- pass cmd args to debugging program
 ...
