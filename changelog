@@ -64,3 +64,15 @@ bugs can be present but seems it is work!
 
 2058 040617
 - improve highlight keyword
+
+1711 180320
+- restart the project
+- new build for x86
+- fix close debugger while in modal window
+- add menu history
+- add bookmark
+- implement all console command 
+- implement pe explorer
+- implement run tracer
+- new width for dataview, allow by popup menu
+- prepare for source debugging

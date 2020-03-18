@@ -1,0 +1,27 @@
+unsorting unreal ideas
+
+- new build for windows x64
+- wow64
+- build x86,x64 for linux
+- ring0 for windows/linux
+- re calc
+- re data toolbar
+- list exception
+- fix out of scroll for hexview
+- re source debugging
+- fpu registers and float point represent it
+- xmm/mmx/... new registers
+- threads window
+- functions window
+- memory search window
+- comments list
+- pdb parsing library for source debugging, ring0
+- improve disassembler for new opcode
+- re assembler
+- bp on load module
+- re options for color settings
+- improve watchlist for new data types
+- re utf strings
+- new fonts
+- hidpi
+...
