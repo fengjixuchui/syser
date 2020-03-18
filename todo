@@ -29,4 +29,5 @@ unsorting unreal ideas
 - hint args for call cdecl/stdcall/thicall/fastcall
 - improve render
 - add alpha channel for color
+- improve callstack window
 ...
