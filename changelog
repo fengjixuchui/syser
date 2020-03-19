@@ -76,3 +76,10 @@ bugs can be present but seems it is work!
 - implement run tracer
 - new width for dataview, allow by popup menu
 - prepare for source debugging
+
+0001 200320
+- add options for settings and color
+- some settings can be apply without restart
+- colors can be apply without restart
+- add setting for monitor window to move left/right
+- font size setting need to restart
