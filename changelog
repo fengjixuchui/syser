@@ -83,3 +83,11 @@ bugs can be present but seems it is work!
 - colors can be apply without restart
 - add setting for monitor window to move position left/right
 - font size setting need to restart
+
+0030 210320
+- allow run on winxp
+- fix crash when close debugger with many windows
+- disable change IF EFLAGS
+- disable edit segment reg/base
+- fix color ADDR in codeview
+- reimplement colors update settings
