@@ -29,4 +29,5 @@ unsorting unreal ideas
 - add alpha channel for color
 - improve callstack window
 - pass cmd args to debugging program
+- put full file path in menu History.lst
 ...
