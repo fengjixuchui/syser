@@ -91,3 +91,6 @@ bugs can be present but seems it is work!
 - disable edit segment reg/base
 - fix color ADDR in codeview
 - reimplement colors update settings
+
+1153 210320
+- alpha build x64
