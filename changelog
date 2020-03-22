@@ -110,3 +110,6 @@ bugs can be present but seems it is work!
 - fix trace step on "mov ss" for x64
 - fix using cap button close/max/min for x64
 - regress: there need restart to use new color, will improve realtime in future
+
+1811 220320
+- fix search plugin in Plugin dir
