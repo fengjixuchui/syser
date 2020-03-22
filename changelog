@@ -94,3 +94,19 @@ bugs can be present but seems it is work!
 
 1153 210320
 - alpha build x64
+
+1810 220320
+- fix output unsigng ptr in engine for x64
+- fix output expression format for x64
+- reimplement scroll limit for codeview
+- fix disassembler to show symbol in codeview
+- fix dissassembler to follow code/data at imm
+- add show group data as qword for x64 (dblcick on address in hewview)
+- fix pe read export function names for x64
+- fix pe explorer address field for x64
+- fix pe tls for x64
+- fix crash while using setenv in console for x64
+- fix debugger detach process only from attached
+- fix trace step on "mov ss" for x64
+- fix using cap button close/max/min for x64
+- regress: there need restart to use new color, will improve realtime in future

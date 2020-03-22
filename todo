@@ -30,4 +30,8 @@ unsorting unreal ideas
 - improve callstack window
 - pass cmd args to debugging program
 - put full file path in menu History.lst
+- pe exlorer reloc
+- imagefile for huge offset
+- pe resource reader
+- reimplement apply color
 ...
