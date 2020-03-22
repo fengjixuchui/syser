@@ -33,4 +33,6 @@ unsorting unreal ideas
 - imagefile for huge offset
 - pe resource reader
 - reimplement apply color
+- increase memory breakpoint with pageacess exception
+- break(pause) debug loop
 ...
