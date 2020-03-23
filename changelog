@@ -113,3 +113,12 @@ bugs can be present but seems it is work!
 
 1811 220320
 - fix search plugin in Plugin dir
+
+1430 230320
+- implement FPU reg "%1.7e"
+- implement XMM 8/16 reg by dword x 4
+- fix instr info for qword data
+- fix all disassm in uppercase
+- fix debugger leak handle
+- revert fix for detached process
+- fix debugger handle unload dll
