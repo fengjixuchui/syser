@@ -33,6 +33,9 @@ unsorting unreal ideas
 - imagefile for huge offset
 - pe resource reader
 - reimplement apply color
-- increase memory breakpoint with pageacess exception
-- break(pause) debug loop
+- increase memory breakpoint with VirtualProtectEx PAGE_GUARD
+- break(pause) debug loop DebugBreakProcess
+- set debug priv
+- ud2/long int3/... breakpoint
+- detach from process
 ...
