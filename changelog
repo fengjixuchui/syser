@@ -122,3 +122,7 @@ bugs can be present but seems it is work!
 - fix debugger leak handle
 - revert fix for detached process
 - fix debugger handle unload dll
+
+1030 250320
+- fix output ESC chars in strings
+- add load public symbols from pdb
