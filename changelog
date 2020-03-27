@@ -126,3 +126,9 @@ bugs can be present but seems it is work!
 1030 250320
 - fix output ESC chars in strings
 - add load public symbols from pdb
+
+1245 270320
+- fix mistake/warn found by clang
+- fix debugger trace range
+- fix same key pressed twice, used with source level debugging
+- source level debugging
