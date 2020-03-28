@@ -135,4 +135,5 @@ bugs can be present but seems it is work!
 
 1730 280320
 - fix position close button on tab
-- add breakpoint on source code
+- add breakpoints on source code
+- add bookmarks on source code
