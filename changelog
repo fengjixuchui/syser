@@ -131,4 +131,8 @@ bugs can be present but seems it is work!
 - fix mistake/warn found by clang
 - fix debugger trace range
 - fix same key pressed twice, used with source level debugging
-- source level debugging
+- add source level debugging
+
+1730 280320
+- fix position close button on tab
+- add breakpoint on source code
