@@ -137,3 +137,7 @@ bugs can be present but seems it is work!
 - fix position close button on tab
 - add breakpoints on source code
 - add bookmarks on source code
+
+0631 290320
+- fix debug trace
+- fix infinet loop - out of range by msdia length for source level
