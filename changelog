@@ -141,3 +141,8 @@ bugs can be present but seems it is work!
 0631 290320
 - fix debug trace
 - fix infinet loop - out of range by msdia length for source level
+
+1530 050420
+- add more symbols from pdb 
+- add var names in statements for source level debugging
+- fix dont follow to source level if set follow to codeview
