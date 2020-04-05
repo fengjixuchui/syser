@@ -143,6 +143,10 @@ bugs can be present but seems it is work!
 - fix infinet loop - out of range by msdia length for source level
 
 1530 050420
-- add more symbols from pdb 
+- add more symbols from pdb (some functions)
 - add var names in statements for source level debugging
 - fix dont follow to source level if set follow to codeview
+
+1805 050420
+- fix detect unicode string
+- add more symbols from pdb (static vars)
