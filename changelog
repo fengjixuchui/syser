@@ -64,3 +64,89 @@ bugs can be present but seems it is work!
 
 2058 040617
 - improve highlight keyword
+
+1711 180320
+- restart the project
+- new build for x86
+- fix close debugger while in modal window
+- add menu history
+- add bookmark
+- implement all console command 
+- implement pe explorer
+- implement run tracer
+- new width for dataview, allow by popup menu
+- prepare for source debugging
+
+0001 200320
+- add options for settings and color
+- some settings can be apply without restart
+- colors can be apply without restart
+- add setting for monitor window to move position left/right
+- font size setting need to restart
+
+0030 210320
+- allow run on winxp
+- fix crash when close debugger with many windows
+- disable change IF EFLAGS
+- disable edit segment reg/base
+- fix color ADDR in codeview
+- reimplement colors update settings
+
+1153 210320
+- alpha build x64
+
+1810 220320
+- fix output unsigned ptr in engine for x64
+- fix output expression format for x64
+- reimplement scroll limit for codeview
+- fix disassembler to show symbol in codeview
+- fix dissassembler to follow code/data at imm
+- add show group data as qword for x64 (dblcick on address in hexview)
+- fix pe read export function names for x64
+- fix pe explorer address field for x64
+- fix pe tls for x64
+- fix crash while using setenv in console for x64
+- fix debugger detach process only from attached
+- fix trace step on "mov ss" for x64
+- fix using cap button close/max/min for x64
+- regress: there need restart to use new color, will improve realtime in future
+
+1811 220320
+- fix search plugin in Plugin dir
+
+1430 230320
+- implement FPU reg "%1.7e"
+- implement XMM 8/16 reg by dword x 4
+- fix instr info for qword data
+- fix all disassm in uppercase
+- fix debugger leak handle
+- revert fix for detached process
+- fix debugger handle unload dll
+
+1030 250320
+- fix output ESC chars in strings
+- add load public symbols from pdb
+
+1245 270320
+- fix mistake/warn found by clang
+- fix debugger trace range
+- fix same key pressed twice, used with source level debugging
+- add source level debugging
+
+1730 280320
+- fix position close button on tab
+- add breakpoints on source code
+- add bookmarks on source code
+
+0631 290320
+- fix debug trace
+- fix infinet loop - out of range by msdia length for source level
+
+1530 050420
+- add more symbols from pdb (some functions)
+- add var names in statements for source level debugging
+- fix dont follow to source level if set follow to codeview
+
+1805 050420
+- fix detect unicode string
+- add more symbols from pdb (static vars)
