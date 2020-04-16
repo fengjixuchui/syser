@@ -150,3 +150,6 @@ bugs can be present but seems it is work!
 1805 050420
 - fix detect unicode string
 - add more symbols from pdb (static vars)
+
+2020 160420
+- add allow load BDF font (Menu-Options-Font File Name)
