@@ -38,4 +38,5 @@ unsorting unreal ideas
 - set debug priv
 - ud2/long int3/... breakpoint
 - detach from process
+- watch for source level debugging
 ...
