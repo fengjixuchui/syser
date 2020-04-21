@@ -7,7 +7,6 @@ unsorting unreal ideas
 - re data toolbar
 - list exception
 - fix out of scroll for hexview
-- re source debugging
 - float/double format of extended regs
 - mmx as alias x87 fpu
 - edit fpu/xmm/mmx/ymm/zmm regs
@@ -22,7 +21,6 @@ unsorting unreal ideas
 - bp on load module
 - improve watchlist for new data types
 - re utf strings
-- new fonts
 - hidpi
 - disassembler upper/lower case as options
 - hint args for call cdecl/stdcall/thicall/fastcall
@@ -40,4 +38,5 @@ unsorting unreal ideas
 - set debug priv
 - ud2/long int3/... breakpoint
 - detach from process
+- watch for source level debugging
 ...
