@@ -153,3 +153,6 @@ bugs can be present but seems it is work!
 
 2020 160420
 - add allow load BDF font (Menu-Options-Font File Name)
+
+0245 230420
+- fix load order BDF font
