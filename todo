@@ -39,4 +39,5 @@ unsorting unreal ideas
 - ud2/long int3/... breakpoint
 - detach from process
 - watch for source level debugging
+- fix scroll mark by mouse upper/lower
 ...

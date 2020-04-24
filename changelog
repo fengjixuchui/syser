@@ -156,3 +156,8 @@ bugs can be present but seems it is work!
 
 0245 230420
 - fix load order BDF font
+
+1750 240420
+- fix key action shift+insert <-> ctrl+insert on edit input
+- fix use paste clipboard from Windows
+- fix double +inf,-inf,nan for output engine
