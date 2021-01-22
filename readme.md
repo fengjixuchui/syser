@@ -2,6 +2,10 @@
 reverse engineering old syser win32 debugger<br>
 improve handle x64 arch and fix some bugs<br>
 
+donate $20 by BTC as thanks if your are using this syser debugger<br>
+
+bitcoin:3Cc7Lk84FvrFwewzven9foooVJwLxRpnUh<br>
+
 many people ask about the source of the debugger<br>
 yes i can publish(open source) it to this repository for 3 BTC payment<br>
 newsyser@ google mail<br>
