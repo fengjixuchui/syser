@@ -41,7 +41,7 @@
 		virtual void *GetMainMenu() = 0;
 		virtual void *GetWisp() = 0;
 
-		virtual unsigned long WriteMemory(ULONG_PTR Address, void *Buffer, unsigned long Size) = 0;
+		virtual unsigned long WriteMemory(ULONG_PTR Address, const void *Buffer, unsigned long Size) = 0;
 		virtual unsigned long ReadMemory(ULONG_PTR Address, void *Buffer, unsigned long Size) = 0;
 	};
 
