@@ -161,3 +161,9 @@ bugs can be present but seems it is work!
 - fix key action shift+insert <-> ctrl+insert on edit input
 - fix use paste clipboard from Windows
 - fix double +inf,-inf,nan for output engine
+
+0758 080221
+- add CommentList window/save to file/load from file, Syser.cmt
+
+0931 080221
+- fix x64 address width of CommentList

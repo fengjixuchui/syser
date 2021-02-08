@@ -2,10 +2,13 @@
 reverse engineering old syser win32 debugger<br>
 improve handle x64 arch and fix some bugs<br>
 
+donate $20 by BTC as thanks if your are using this syser debugger<br>
+
+bitcoin:3Cc7Lk84FvrFwewzven9foooVJwLxRpnUh<br>
+
 many people ask about the source of the debugger<br>
-yes i can publish(open source) it to this repository for bitcoin payment<br>
-send message about how much bitcoin your can spend to newsyser@ google mail<br>
-i will reply to all when total expected amount bitcoin will be reached<br>
+yes i can publish(open source) it to this repository for 3 BTC payment<br>
+newsyser@ google mail<br>
 
 list of sources https://github.com/marakew/syser/blob/master/sale
 
