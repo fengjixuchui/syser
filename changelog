@@ -167,3 +167,6 @@ bugs can be present but seems it is work!
 
 0931 080221
 - fix x64 address width of CommentList
+
+1704 080221
+- create comment file .cmt per application
