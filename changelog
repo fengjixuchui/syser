@@ -170,3 +170,6 @@ bugs can be present but seems it is work!
 
 1704 080221
 - create comment file .cmt per application
+
+1528 100221
+- fix crash on click rbutton at empty CommentList
