@@ -173,3 +173,10 @@ bugs can be present but seems it is work!
 
 1528 100221
 - fix crash on click rbutton at empty CommentList
+
+0407 230321
+- fix draw frame on softkeyboard shift key
+- add SEH info on stack window, only for x32
+- add reghelp
+- add data toolbar operation
+- start re calc

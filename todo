@@ -3,8 +3,7 @@ unsorting unreal ideas
 - wow64
 - build x86,x64 for linux
 - ring0 for windows/linux
-- re calc
-- re data toolbar
+- re calc, starting
 - list exception
 - fix out of scroll for hexview
 - float/double format of extended regs
