@@ -188,3 +188,6 @@ bugs can be present but seems it is work!
 - remove reduntant compilation unit files and sort it in source explorer
 - fix show compilation unit count 
 - fix file icon type as "header"
+
+1923 230321
+- add more static variables to statement
