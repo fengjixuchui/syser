@@ -191,3 +191,6 @@ bugs can be present but seems it is work!
 
 1923 230321
 - add more static variables to statement
+
+0127 240321
+- fix edit/fill command for string
