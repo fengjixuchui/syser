@@ -180,3 +180,11 @@ bugs can be present but seems it is work!
 - add reghelp
 - add data toolbar operation
 - start re calc
+
+1600 230321
+- fix memory search api/cmd
+- add memory search dialog
+- fix bpx parse condition/command
+- remove reduntant compilation unit files and sort it in source explorer
+- fix show compilation unit count 
+- fix file icon type as "header"

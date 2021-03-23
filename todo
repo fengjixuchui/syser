@@ -12,7 +12,6 @@ unsorting unreal ideas
 - ymm,zmm regs
 - threads window
 - functions window
-- memory search window
 - pdb parsing library for source debugging, ring0
 - improve disassembler for new opcode
 - re assembler
