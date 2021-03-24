@@ -200,3 +200,7 @@ bugs can be present but seems it is work!
 
 1637 240321
 - fix disassembler rm 4/mod 0/displacement_size
+
+2235 240321
+- add resolve memory as string at context watchlist
+- add more variables/static variables as index array at statement source files
