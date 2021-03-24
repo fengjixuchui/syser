@@ -197,3 +197,6 @@ bugs can be present but seems it is work!
 
 1016 240321
 - add fake IDT,GDT,PageMap from syser ring0, just for test gui
+
+1637 240321
+- fix disassembler rm 4/mod 0/displacement_size
