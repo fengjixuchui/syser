@@ -194,3 +194,6 @@ bugs can be present but seems it is work!
 
 0127 240321
 - fix edit/fill command for string
+
+1016 240321
+- add fake IDT,GDT,PageMap from syser ring0, just for test gui
