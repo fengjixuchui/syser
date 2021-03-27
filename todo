@@ -37,4 +37,16 @@ unsorting unreal ideas
 - detach from process
 - watch for source level debugging
 - fix scroll mark by mouse upper/lower
+- fix crash when using 'mod *w*' command
+- fix glitch dissassember in x32/x64 mode when reverse scroll syser code
+- improve speed for open sources as fill statement when expand list
+- add progress while load pdb/etc
+- add dialog to skip load pdb
+- improve ListWnd for store complex type as pair
+- fix reverse line by scroll stringref window
+- fix infinet loop when search dialog by CTRL+N in stringref window 
+- put error in csourcedebug if source file cant be reading
+- add callstack/unwind for x64
+- add find string in source explorer for better navgation
+- fix trace debug return,debug proceed in source level debugging for x64
 ...

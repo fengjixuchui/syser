@@ -204,3 +204,16 @@ bugs can be present but seems it is work!
 2235 240321
 - add resolve memory as string at context watchlist
 - add more variables/static variables as index array at statement source files
+
+0748 270321
+- fix bug show callstack window for x32
+- fix walk on stack from source explorer
+- fix mem leak while using DIA pdb
+- add command mod/stack/sdsmod/cmt/...
+- prepare add othercmd
+- add String Reference for show all strings from files
+- fix first search entry in String Reference by CTRL+N
+- fix bug reading PEFile from memory
+- improve gui engine for progress dialog
+- add progress for findstringref/opref/loading source file
+- fix display address size runtrace/modulelist/stringref for x64
