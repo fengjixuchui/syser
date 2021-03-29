@@ -205,7 +205,7 @@ bugs can be present but seems it is work!
 - add resolve memory as string at context watchlist
 - add more variables/static variables as index array at statement source files
 
-0748 270321
+0750 270321
 - fix bug show callstack window for x32
 - fix walk on stack from source explorer
 - fix mem leak while using DIA pdb
@@ -217,3 +217,8 @@ bugs can be present but seems it is work!
 - improve gui engine for progress dialog
 - add progress for findstringref/opref/loading source file
 - fix display address size runtrace/modulelist/stringref for x64
+
+1857 290321
+- improve load source files while debug O(1), there no need progress dialog for it
+- implement othercmd, with many windows ntstatus/bugcheckcode/winerror/wm
+- add highligh key word in sources
