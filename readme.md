@@ -13,6 +13,7 @@ newsyser@ google mail<br>
 list of sources https://github.com/marakew/syser/blob/master/sale
 
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx64src.png">
+<img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx32src.png">
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx32.png">
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx64.png">
 
