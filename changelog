@@ -222,3 +222,11 @@ bugs can be present but seems it is work!
 - improve load source files while debug O(1), there no need progress dialog for it
 - implement othercmd, with many windows ntstatus/bugcheckcode/winerror/wm
 - add highligh key word in sources
+
+1334 110421
+- fix all radiobox/checkbox form
+- add .sds cache file for store pdb infos
+- add watch view for source level
+- add watch view struct into explorer for allow attach any struct to any address
+- fix disasm addr size overflow on x32, was incorrect op info
+- x32 build, build for x64 under dev

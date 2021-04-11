@@ -35,16 +35,18 @@ unsorting unreal ideas
 - set debug priv
 - ud2/long int3/... breakpoint
 - detach from process
-- watch for source level debugging
 - fix scroll mark by mouse upper/lower
 - fix crash when using 'mod *w*' command
 - fix glitch dissassember in x32/x64 mode when reverse scroll syser code
-- add progress while load pdb/etc
 - add dialog to skip load pdb
-- improve ListWnd for store complex type as pair
 - fix reverse line by scroll stringref window
 - fix infinet loop when search dialog by CTRL+N in stringref window 
 - put error in csourcedebug if source file cant be reading
-- add find string in source explorer for better navgation
+- add find string in source explorer for better navigation
 - fix trace debug return,debug proceed in source level debugging for x64
+- fix highligthing comment
+- fix wisplist collapse by left arrow
+- fix source level step, as example derive with default empty ctor, by F8 step
+- fix slowly step debug into 'call' while have pdb+srcs but with follow mode explorer
+- fix hint for template func
 ...
