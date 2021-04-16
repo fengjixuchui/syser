@@ -229,4 +229,6 @@ bugs can be present but seems it is work!
 - add watch view for source level
 - add watch view struct into explorer for allow attach any struct to any address
 - fix disasm addr size overflow on x32, was incorrect op info
+- struct viewer to attach existing struct to any address
+- hint position bit fields, and decode values
 - x32 build, build for x64 under dev
