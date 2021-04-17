@@ -3,8 +3,7 @@ unsorting unreal ideas
 - wow64
 - build x86,x64 for linux
 - ring0 for windows/linux
-- re calc
-- re data toolbar
+- re calc, starting
 - list exception
 - fix out of scroll for hexview
 - float/double format of extended regs
@@ -13,7 +12,6 @@ unsorting unreal ideas
 - ymm,zmm regs
 - threads window
 - functions window
-- memory search window
 - pdb parsing library for source debugging, ring0
 - improve disassembler for new opcode
 - re assembler
@@ -25,7 +23,7 @@ unsorting unreal ideas
 - hint args for call cdecl/stdcall/thicall/fastcall
 - improve render
 - add alpha channel for color
-- improve callstack window
+- improve callstack window/checked StackWalk64 no luck, continue research
 - pass cmd args to debugging program
 - put full file path in menu History.lst
 - pe exlorer reloc
@@ -37,6 +35,18 @@ unsorting unreal ideas
 - set debug priv
 - ud2/long int3/... breakpoint
 - detach from process
-- watch for source level debugging
 - fix scroll mark by mouse upper/lower
+- fix crash when using 'mod *w*' command
+- fix glitch dissassember in x32/x64 mode when reverse scroll syser code
+- add dialog to skip load pdb
+- fix reverse line by scroll stringref window
+- fix infinet loop when search dialog by CTRL+N in stringref window 
+- put error in csourcedebug if source file cant be reading
+- add find string in source explorer for better navigation
+- fix trace debug return,debug proceed in source level debugging for x64
+- fix highligthing comment
+- fix wisplist collapse by left arrow
+- fix source level step, as example derive with default empty ctor, by F8 step
+- fix slowly step debug into 'call' while have pdb+srcs but with follow mode explorer
+- fix hint for template func
 ...

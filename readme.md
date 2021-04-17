@@ -7,12 +7,14 @@ donate $20 by BTC as thanks if your are using this syser debugger<br>
 bitcoin:3Cc7Lk84FvrFwewzven9foooVJwLxRpnUh<br>
 
 many people ask about the source of the debugger<br>
-yes i can publish(open source) it to this repository for 3 BTC payment<br>
+yes i can publish(open source) it to this repository for 2 BTC payment (depend on BTC price)<br>
 newsyser@ google mail<br>
 
 list of sources https://github.com/marakew/syser/blob/master/sale
 
+<img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/attach_struct.png">
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx64src.png">
+<img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx32src.png">
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx32.png">
 <img width="100%" src="https://raw.githubusercontent.com/marakew/syser/master/images/SyserDebuggerx64.png">
 

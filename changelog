@@ -167,3 +167,68 @@ bugs can be present but seems it is work!
 
 0931 080221
 - fix x64 address width of CommentList
+
+1704 080221
+- create comment file .cmt per application
+
+1528 100221
+- fix crash on click rbutton at empty CommentList
+
+0407 230321
+- fix draw frame on softkeyboard shift key
+- add SEH info on stack window, only for x32
+- add reghelp
+- add data toolbar operation
+- start re calc
+
+1600 230321
+- fix memory search api/cmd
+- add memory search dialog
+- fix bpx parse condition/command
+- remove reduntant compilation unit files and sort it in source explorer
+- fix show compilation unit count 
+- fix file icon type as "header"
+
+1923 230321
+- add more static variables to statement
+
+0127 240321
+- fix edit/fill command for string
+
+1016 240321
+- add fake IDT,GDT,PageMap from syser ring0, just for test gui
+
+1637 240321
+- fix disassembler rm 4/mod 0/displacement_size
+
+2235 240321
+- add resolve memory as string at context watchlist
+- add more variables/static variables as index array at statement source files
+
+0750 270321
+- fix bug show callstack window for x32
+- fix walk on stack from source explorer
+- fix mem leak while using DIA pdb
+- add command mod/stack/sdsmod/cmt/...
+- prepare add othercmd
+- add String Reference for show all strings from files
+- fix first search entry in String Reference by CTRL+N
+- fix bug reading PEFile from memory
+- improve gui engine for progress dialog
+- add progress for findstringref/opref/loading source file
+- fix display address size runtrace/modulelist/stringref for x64
+
+1857 290321
+- improve load source files while debug O(1), there no need progress dialog for it
+- implement othercmd, with many windows ntstatus/bugcheckcode/winerror/wm
+- add highligh key word in sources
+
+1334 110421
+- fix all radiobox/checkbox form
+- add .sds cache file for store pdb infos
+- add watch view for source level
+- add watch view struct into explorer for allow attach any struct to any address
+- fix disasm addr size overflow on x32, was incorrect op info
+- struct viewer to attach existing struct to any address
+- hint position bit fields, and decode values
+- x32 build, build for x64 under dev
